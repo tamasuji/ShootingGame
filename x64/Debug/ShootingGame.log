@@ -1,0 +1,7 @@
+﻿  CheckHit.cpp
+  ObjControl.cpp
+d:\users\drago\documents\gakkou\vs\shootinggame\src\objcontrol.cpp(69): warning C4552: '>': 式の結果が使用されていません
+  SetParam.cpp
+  WinMain.cpp
+  コードを生成中...
+  ShootingGame.vcxproj -> D:\Users\drago\Documents\gakkou\vs\ShootingGame\x64\Debug\ShootingGame.exe
